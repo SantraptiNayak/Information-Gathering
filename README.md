@@ -26,10 +26,13 @@ Use additional transforms to gather more detailed information or to expand your 
 Exporting Results:
 Once you have gathered and analyzed the desired information, you can export the results from Maltego for further analysis or reporting.
 Maltego allows you to export the graph data in various formats, such as CSV, Excel, or image files.
-Note:
 
-Note: Always ensure that you have proper authorization and permission before conducting any information gathering or reconnaissance activities.
+
+Note:
+---I have used kali linux where I installed maltego in it. you can also download it form official website in windows.
+
+---Always ensure that you have proper authorization and permission before conducting any information gathering or reconnaissance activities.
 Respect privacy laws and regulations, and avoid engaging in any unauthorized or illegal activities while using tools like Maltego.
 
  
-Information Gathering: https://drive.google.com/file/d/1pnx1qS0G1pQXFCbfGXFJA1O-BIertEz8/view?usp=sharing
+Information Gathering: https://www.linkedin.com/posts/santrapti-nayak-81b957225_maltego-informationgathering-activity-7109507179916759040-aH2O?utm_source=share&utm_medium=member_desktop
